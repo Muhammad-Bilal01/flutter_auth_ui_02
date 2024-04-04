@@ -11,7 +11,7 @@ https://unsplash.com/photos/person-holding-dough-4yzEtTQLdL4
 ### Preview
 
 Download Apk
-<a href="Readme/auth_login.apk">Click to Download</a>
+<a href="Readme/auth_login.apk" download>Click to Download</a>
 
 <!-- cover image -->
 <img src="Readme/Auth_UI_02.png">
